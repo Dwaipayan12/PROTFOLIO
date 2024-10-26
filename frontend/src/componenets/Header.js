@@ -20,7 +20,7 @@ export default function Header() {
       <a href="/Contact">Contact</a>
     </nav>
           <div className="social-icons">
-          <a href="https://www.linkedin.com/in/dwaipayan-bhowmik" className="linkedin" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/dwaipayan-bhowmik-8a7793257/" className="linkedin" target="_blank" rel="noopener noreferrer">
           <LinkedInIcon />
          </a>
             <a href="https://www.instagram.com/dwaipayan_27/" className="instagram">
